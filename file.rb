@@ -1,1 +1,2 @@
-end the conflict
+puts "let's end the conflict"
+puts "i agree"
